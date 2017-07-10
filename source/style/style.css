@@ -1,0 +1,32 @@
+body {
+    margin: 1%;
+}
+
+.rounding {
+    border-radius: 24px;   
+}
+
+.orngbackground {
+    background-color: darkorange;
+    width: 90%;
+    height: 900px;
+    margin: auto
+}
+
+.yellbackground {
+    background-color: yellow;
+    width: 11%;
+    height: 900px;
+    position: absolute;
+    top: 5%;
+    left: 7%;
+}
+
+.whitebackground {
+    background-color: white;
+    width: 78%;
+    height: 900px;
+    position: absolute;
+    top: 15%;
+    right: 5%
+}
